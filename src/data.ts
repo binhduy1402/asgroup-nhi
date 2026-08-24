@@ -9,7 +9,7 @@ export const BRAND_INFO = {
   name: "AS Group",
   tagline: "Heritage & Grace",
   hotline: "0962 777 767 - Ms. Nhi",
-  email: "sales3@asgroup.vn",
+  email: "sales3@asgroup.com.vn",
   address: "District 2, Ho Chi Minh City, VietNam",
 };
 
